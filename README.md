@@ -12,4 +12,5 @@
 * [imdb](https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating)
 
 3. Scrapy
+* [Trendyol]( https://www.trendyol.com/tv-goruntu-ses-sistemleri-x-c104035?pi=1)
 
