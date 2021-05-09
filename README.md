@@ -16,4 +16,5 @@
 * [arabam]( https://www.arabam.com/ikinci-el/otomobil?take=50&page=1)
 * [trendyol](https://www.trendyol.com/tv-goruntu-ses-sistemleri-x-c104035?pi=1)
 * [bigpara](https://bigpara.hurriyet.com.tr/bilgi/gerekli-linkler/)
+* [sofifa](https://sofifa.com/)
 
