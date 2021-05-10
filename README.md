@@ -17,4 +17,6 @@
 * [trendyol](https://www.trendyol.com/tv-goruntu-ses-sistemleri-x-c104035?pi=1)
 * [bigpara](https://bigpara.hurriyet.com.tr/bilgi/gerekli-linkler/)
 * [sofifa](https://sofifa.com/)
+* [ntschools (javascript)](https://directory.ntschools.net/#/schools)
+* [tripadvisor](https://www.tripadvisor.com.tr/Hotels-g298656-Ankara-Hotels.html)
 
