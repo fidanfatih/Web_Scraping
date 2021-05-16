@@ -11,6 +11,7 @@
 2. Selenium
 * [eksisozluk](https://eksisozluk.com/corona-virusu-sayesinde-fark-edilen-gercekler--6435737?p=)
 * [imdb](https://www.imdb.com/search/title/?count=100&groups=top_1000&sort=user_rating)
+* [sofifa](https://sofifa.com/)
 
 3. Scrapy
 * [arabam]( https://www.arabam.com/ikinci-el/otomobil?take=50&page=1)
