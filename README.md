@@ -19,4 +19,5 @@
 * [sofifa](https://sofifa.com/)
 * [ntschools (javascript)](https://directory.ntschools.net/#/schools)
 * [tripadvisor](https://www.tripadvisor.com.tr/Hotels-g298656-Ankara-Hotels.html)
+* [autoscout24](https://www.autoscout24.com/)
 
