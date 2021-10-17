@@ -1,0 +1,25 @@
+# with terminal
+scrapy
+scrapy startproject newproject
+cd newproject
+scrapy genspider new "[link]"
+
+scrapy crawl autoscout24 -o autoscout_data.json
+
+
+
+
+
+
+
+# Javascript scraping
+CTRL+SHIFT+I
+click >> Disable cache
+CTRL+SHIFT+P
+type >> Disable Javascript
+refresh page >> if page is gone, Javascript is used in website
+type >> Enable Javascript
+refresh page >> page will be seemed.
+click >> XHR
+click >> second row(below Setting)
+request headers > copy all dictionary items to headers
